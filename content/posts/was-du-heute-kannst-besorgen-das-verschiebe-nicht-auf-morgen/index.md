@@ -19,7 +19,7 @@ Von **Dominique Boksberger und Amélie Scheidegger**
 
 Solche Situationen erleben viele Menschen, welche aufgrund des Prokrastinierens unter Stress geraten, Arbeiten und Aufgaben noch rechtzeitig zu erledigen. Bei den meisten halten sich die Folgen des Prokrastinierens noch im Mass, doch andere leiden unter schwerwiegenden Folgen. Die Trennung der Freizeit und Arbeit gelingt nicht mehr und man fällt in einen Dauerstress. Prokrastination kann einen Menschen psychisch und physisch so auf die Probe stellen, dass man in Aufgaben versinkt, Fristen nicht länger einhalten kann und im schlimmsten Fall gekündigt wird. Diese Menschen leiden an chronischer Prokrastination und sollten sich Hilfe holen. Wie kann man aufhören, sich vor Arbeiten zu drücken und sich einen Ruck geben und endlich anzufangen? Wie kommt es zu diesem starken Aufschiebe-Problem und welche Menschen sind besonders davon betroffen?
 
-![Abbildung 1 Justus Homescreen, (Justus, 15.04.2023) ](screenshot-justus.jpg)
+![Abbildung 1 Justus Homescreen, (Justus, 15.04.2023) ](screenshot-justus-klein.jpg)
 
 ## Wie ist der Alltag einer prokrastinierenden Person?
 
@@ -48,8 +48,6 @@ Quelle: [https://www.iconel.de/2021/02/01/aufgeschoben](https://www.iconel.de/20
 Laut der Webseite www.iconel.de ist die Prokrastination ein berufsbezogenes Phänomen. Die Website schreibt: *„Die Verkäuferin an der Supermarktkasse kann naturgemäss ihre Aufgaben nicht später machen. Es verläuft auch immer nach dem gleichen Muster, zunächst sind wir noch voller Euphorie, dann kommt „ach, es ist ja noch Zeit”, dann fangen wir vielleicht mal an und merken im letzten Drittel der Zeit, dass noch zwei Drittel der Arbeit zu erledigen ist und das jetzt knapp wird.“* (siehe Grafik 1) 
 
 Die Grafik beschreibt, wie sich der Arbeitseifer im Laufe der Zeit entwickelt. Bei Justus sah es ähnlich aus, indem er sich einredete: *„Morgen bleibt ja auch noch Zeit”* und schliesslich in Stress geriet und schnellstmöglich noch ein Produkt fertigstellte, um es noch vor dem Abgabetermin auszuhändigen. Der Psychologe R. Schweizer gab einige Empfehlungen, wie man sich von der Prokrastination lösen kann. Einige kann man gut mit der Grafik vergleichen. *„Es ist wichtig, Schritt für Schritt zu arbeiten und sich darauf zu konzentrieren, was man gerade am Machen ist.“* Man sieht die erste Kurve (anfängliche Begeisterung) schnell in die y-Richtung zunimmt und anschliessen in etwa gleich schnell wieder abnimmt. Wenn man die jetzt aber Stufenweise vorgehen würde, gäbe es nicht so grosse Schwankungen der Kurve und man könnte den Abgabetermin stressfrei einhalten. Am Starttermin würde die Kurve zunehmen, danach wäre sie einigermassen konstant und anschliessend, falls man noch zu viel Zeit übrig habe und man mit dem Ergebnis zufrieden sei, würde sie wieder abnehmen. 
-
-
 
 ## Unsere Schlussfolgerung
 
